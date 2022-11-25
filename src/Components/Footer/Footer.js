@@ -45,10 +45,17 @@ const Footer = () => {
           <h4>SOCIAL MEDIA</h4>
           <ul>
             <li>
-              <a>Linkedin</a>
+              <a
+                href="https://www.linkedin.com/in/aleksandar-conic-58873b196/"
+                target={"_blank"}
+              >
+                Linkedin
+              </a>
             </li>
             <li>
-              <a>GitHub</a>
+              <a href="https://github.com/FoodNipple" target={"_blank"}>
+                GitHub
+              </a>
             </li>
           </ul>
         </div>
